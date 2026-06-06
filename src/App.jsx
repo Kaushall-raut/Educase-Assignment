@@ -1,9 +1,11 @@
-const App=()=>{
-return (
-  <h1 className="text-8xl">
-    Hello WOrld
-  </h1>
-)
-}
+import Welcome from "./pages/Welcome";
+
+const App = () => {
+  return (
+    <>
+      <Welcome />
+    </>
+  );
+};
 
 export default App;
