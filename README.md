@@ -1,8 +1,41 @@
-# React + Vite
+# PopX - Educase Frontend Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+This project is a React.js application built as part of the Educase Frontend Assignment. It recreates the provided PopX mobile UI screens using React, React Router, and Tailwind CSS.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+* Welcome Screen
+* Login Page
+* Registration Page
+* Account Settings Page
+* Responsive Mobile UI
+* React Router Navigation
+
+## Tech Stack
+
+* React.js
+* React Router DOM
+* Tailwind CSS
+* Vite
+
+## Installation
+
+```bash
+npm install
+npm run dev
+```
+
+## Routes
+
+| Route     | Page             |
+| --------- | ---------------- |
+| /         | Welcome          |
+| /login    | Login            |
+| /register | Register         |
+| /account  | Account Settings |
+
+## Author
+
+Kaushal Raut
