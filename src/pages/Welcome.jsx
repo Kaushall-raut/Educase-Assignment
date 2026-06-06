@@ -14,11 +14,11 @@ const Welcome = () => {
           </p>
 
           <button className="w-full h-12 mt-6 bg-[#6C25FF] text-white font-semibold rounded-md hover:bg-[#5d1df0] transition">
-            Create Account
+           <a href="/register"> Create Account</a>
           </button>
 
           <button className="w-full h-12 mt-3 bg-[#CEBAFB] text-[#1D2226] font-semibold rounded-md hover:bg-[#c4aef7] transition">
-            Already Registered? Login
+           <a href="/login">Already Registered? Login</a>
           </button>
         </div>
       </div>
