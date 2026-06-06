@@ -39,3 +39,5 @@ npm run dev
 ## Author
 
 Kaushal Raut
+
+## Live Link - educase-assignment-kaushal.netlify.app
